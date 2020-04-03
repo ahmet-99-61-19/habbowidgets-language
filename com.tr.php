@@ -110,7 +110,7 @@ return [
     "Show on Habbo" => "Habboda göster",
     "Who else has this badge?" => "Bu Rozet başka kimde var?",
     "Removed" => "Geri alindi",
-    "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!" => "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!", // Leave the %s and %d intact
+    "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!" => "%s , %s tarihinden beri Habbo ve %d rozeti, %d arkadaşı, %d grubu and %d odası var!", // Leave the %s and %d intact
     "Back to top" => "başa dön",
     "Go to Badges" => "Rozetlere git",
     "Go to Friends" => "Arkadaşlara git",
